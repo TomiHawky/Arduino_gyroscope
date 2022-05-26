@@ -1,2 +1,11 @@
-<h3>Naprava za merjenje naklona vsebuje stikalo za vklop, gumb za resetiranje in zaslon ki, nam pove izmerjen naklon v stopinjah. Deluje med vrednostima 0 stopinj in 80 stopinj.<h3>
-    Kosovnica: 1x Arduino ESP 8266, 1x GY-521, 1X oled display, 
+## Naprava za merjenje naklona vsebuje stikalo za vklop, gumb za resetiranje in zaslon ki, nam pove izmerjen naklon v stopinjah. Deluje med vrednostima 0 stopinj in 80 stopinj. ##
+Material: 
+- wemos d1 mini esp8266
+- OLED (64 x 128 Display)
+- GY-521
+- Tipka
+- Stikalo
+- 18650 baterija
+- Žice
+- 3D sprintano ohišje
+- vijaki (4 x M3x5, 4 x M3 x 10)
