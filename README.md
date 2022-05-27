@@ -14,4 +14,4 @@ Material:
 - 3D sprintano ohišje
 - vijaki (4 x M3x5, 4 x M3 x 10)
 
-
+Komentar: Naprava dela kot bi morala, natančnost +-1%, za še boljše delovanje bi morala meriti kot 90 stopinj. Kalibracija je potekala tako da se je izmeril kot 0 stopinj in 45 stopinj.
